@@ -1,0 +1,95 @@
+/* Layout */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4rem 2rem;
+  min-height: 100vh;
+  background-color: #f8f4fc;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Input */
+input[type="text"] {
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #d6cdea;
+  border-radius: 8px;
+  width: 250px;
+  margin-bottom: 1rem;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: #bba0e3;
+  box-shadow: 0 0 0 3px #e3d5f5;
+}
+
+/* Submit Button */
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  background-color: #bba0e3;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #a88bd6;
+  transform: scale(1.05);
+}
+
+/* Todo List */
+.todos-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 2rem;
+  width: 100%;
+  max-width: 300px;
+}
+
+/* Todo Item */
+.todo {
+  background-color: #f1e9fc;
+  border-radius: 8px;
+  padding: 0.8rem 1rem;
+  margin-bottom: 0.8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  animation: fadeIn 0.4s ease;
+  box-shadow: 0 2px 4px rgba(180, 140, 220, 0.1);
+}
+
+/* Close Button */
+.close {
+  background-color: transparent;
+  border: none;
+  font-size: 1.2rem;
+  color: #c27ba0;
+  cursor: pointer;
+  transition: transform 0.2s ease, color 0.3s ease;
+}
+
+.close:hover {
+  transform: scale(1.2);
+  color: #a64d79;
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
