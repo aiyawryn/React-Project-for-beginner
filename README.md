@@ -47,6 +47,13 @@ Each mini app is designed to help you learn core concepts like components, hooks
 ### #8 Simple Accordion Card
 <img height="200" alt="08 Accordion Card" src="https://github.com/user-attachments/assets/8f01fa22-09d6-4755-811d-6b1db66f6842" />
 
+---
+
+### #9 Simple Basic Form
+<img height="200" alt="09 simple Basic Form" src="https://github.com/user-attachments/assets/33a2969b-5960-48bb-8f98-92651f2c6c0f" />
+
+
+
 
 
 
