@@ -37,6 +37,18 @@ Each mini app is designed to help you learn core concepts like components, hooks
 <img  height="200" alt="06 Hidden Sear Bar - Hidden" src="https://github.com/user-attachments/assets/937a2fb4-40e0-4fd6-ba06-54c5b3d9572f" />
 <img  height="200" alt="06 Hidden Sear Bar - Show" src="https://github.com/user-attachments/assets/756508f5-0ae1-4129-a993-4e8e7cbe16ac" />
 
+---
+
+### #7 Simple Testimonial Card
+<img  height="200" alt="07 simple Testimonials Card" src="https://github.com/user-attachments/assets/c1cfc4da-3019-4291-b4cc-63e1e2df4356" />
+
+---
+
+### #8 Simple Accordion Card
+<img height="200" alt="08 Accordion Card" src="https://github.com/user-attachments/assets/8f01fa22-09d6-4755-811d-6b1db66f6842" />
+
+
+
 
 
 
