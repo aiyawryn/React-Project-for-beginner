@@ -31,4 +31,12 @@ Each mini app is designed to help you learn core concepts like components, hooks
 <img height="200"  alt="05 Background Color - White Theme" src="https://github.com/user-attachments/assets/a1f64b2d-22e3-41bc-9c0a-858c5372b8a6" />
 <img height="200" alt="05 Background Color - BlackTheme" src="https://github.com/user-attachments/assets/974c1eb5-99af-4c23-a4f5-de4775b16fc7" />
 
+---
+
+### #6 Simple Hidden Searh Bar
+<img  height="200" alt="06 Hidden Sear Bar - Hidden" src="https://github.com/user-attachments/assets/937a2fb4-40e0-4fd6-ba06-54c5b3d9572f" />
+<img  height="200" alt="06 Hidden Sear Bar - Show" src="https://github.com/user-attachments/assets/756508f5-0ae1-4129-a993-4e8e7cbe16ac" />
+
+
+
 
