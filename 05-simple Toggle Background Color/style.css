@@ -1,0 +1,44 @@
+/* Reset default margin/padding */
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Container fills full screen */
+.app-container {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Bungee Shade", sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Toggle button in top-right conrner */
+.theme-toggle-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: bold;
+  background: transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Centered text styling */
+.center-text {
+  text-align: center;
+  font-size: 3rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 0 #ffa31a 4px 4px 0 #1b1b1b;
+}
