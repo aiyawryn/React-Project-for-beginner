@@ -1,0 +1,79 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fdfaf6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  width: 720px;
+  background-color: #fffaf5;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(180, 140, 100, 0.15);
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(180, 140, 100, 0.25);
+}
+
+.card-image {
+  background-image: url("https://as2.ftcdn.net/jpg/05/86/60/59/1000_F_586605922_0wKiShLcQsNOsAJNic1H9KqTbP3p4s7l.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 50%;
+  height: auto;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+  padding: 40px;
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid #d8c3a5;
+  background: transparent;
+  padding: 10px 4px;
+  margin-bottom: 6px;
+  font-size: 15px;
+  color: #5a4634;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+input:focus {
+  border-bottom-color: #b07b50;
+}
+
+.error {
+  color: #c4452f;
+  font-size: 12px;
+  margin: 0 0 10px 2px;
+  height: 14px;
+}
+
+.submit-btn {
+  background-color: #b07b50;
+  color: #fffaf5;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 0;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.submit-btn:hover {
+  background-color: #9a6843;
+}
