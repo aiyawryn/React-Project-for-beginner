@@ -1,7 +1,16 @@
 ## 📘 React Project for Beginner
 
 Welcome to a curated collection of beginner-friendly React projects!  
-Each mini app is designed to help you learn core concepts like components, hooks, props, and styling — while building something visually clean and functional.
+Each mini app is designed to help you learn core concepts like:
+
+- 🧩 **Components**
+- 🔄 **Hooks**
+- 📦 **Props**
+- 🎨 **Styling**
+
+You'll build visually clean and functional apps while strengthening your React fundamentals.
+
+> 💡 **Credit**: All projects are inspired by [Huxn WebDev](https://www.youtube.com/@huxnwebdev) — one of the best channels for learning React!
 
 ---
 
@@ -51,6 +60,17 @@ Each mini app is designed to help you learn core concepts like components, hooks
 
 ### #9 Simple Basic Form
 <img height="200" alt="09 simple Basic Form" src="https://github.com/user-attachments/assets/33a2969b-5960-48bb-8f98-92651f2c6c0f" />
+
+---
+
+### #10 Simple E-Commerce Advanced Filtering
+<img height="300" alt="10 simple E-Commerce Filtering" src="https://github.com/user-attachments/assets/8363ab74-1f37-486c-96f8-3da6186dd6de" />
+
+---
+
+## 📺 Special Thanks
+
+A huge shoutout to [Huxn WebDev on YouTube](https://www.youtube.com/@huxnwebdev) for the inspiration and tutorials that made these projects possible.
 
 
 
